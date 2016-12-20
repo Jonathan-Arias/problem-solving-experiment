@@ -1,0 +1,3 @@
+Thank you for participating in this experiment. You will be presented with a series of questions, each containing a grid of symbols. For each question, one of the symbols is missing. Choose the option that best fits the missing symbol.\n\nYou will have 12 possible options to select from. Only one is correct.You will have a limit of 60 seconds for each question.\n\n\nWhen you are ready, press any key to begin.
+After submitting your answer, a sound plays. If your answer is correct, this sound plays:
+If your answer is incorrect, this sound plays: 
